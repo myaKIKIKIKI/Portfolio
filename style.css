@@ -483,6 +483,15 @@ border-radius: 44% 56% 58% 42% / 58% 55% 45% 42%;
   text-decoration: underline;
 }
 
+.last_comm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10rem 1rem;
+  line-height: 2rem;
+}
+
+
 /*/////=====トップへ戻る（AI）=====/////*/
 
 /* 固定位置の円ボタン */
